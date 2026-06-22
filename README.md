@@ -5,6 +5,8 @@ directly from your GTM web container. Supports contact identification, page
 view tracking, and custom behavioral events — all configurable through a
 clean GTM UI without writing any code.
 
+**Developed with 😍 by DumbData (https://dumbdata.co/)**
+
 ---
 
 ## Overview
