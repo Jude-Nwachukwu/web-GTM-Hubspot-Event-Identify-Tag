@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "HubSpot Event \u0026 Identify Tag (Unofficial)",
+  "displayName": "DD - HubSpot Event \u0026 Identify Tag (Unofficial)",
   "categories": [
     "ANALYTICS",
     "SALES"
@@ -630,6 +630,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 6/22/2026, 9:16:59 AM
+Created on 10/26/2026, 6:37:34 PM
 
 
